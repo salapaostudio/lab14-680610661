@@ -20,7 +20,11 @@ export default function MainLayout() {
           </main>
 
           {/* Footer ด้านล่าง */}
-          <Footer year="2026" fullName="ชื่อ-สกุล" studentId="รหัสนักศึกษา" />
+          <Footer
+            year="2026"
+            fullName="Jirapradit Thanapanyasakun"
+            studentId="680610661"
+          />
         </div>
       </div>
     </div>
